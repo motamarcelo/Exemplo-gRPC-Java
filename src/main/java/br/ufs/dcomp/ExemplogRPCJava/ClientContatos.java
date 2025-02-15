@@ -20,10 +20,10 @@ public class ClientContatos {
  
         // Criação de um novo contato
         Contato contato = Contato.newBuilder()
-          .setNick("tarcisio")
-          .setNome("Tarcisio da Rocha")
-          .setEmail("tarcisio@dcomp.ufs.br")
-          .setTelefone("79 3194-6678")
+          .setNick("Marcelo")
+          .setNome("Marcelo da Mota")
+          .setEmail("marcelo@dcomp.ufs.br")
+          .setTelefone("79 3194-0000")
           .build();
         
         // Inserção do novo contato no servidor remoto
